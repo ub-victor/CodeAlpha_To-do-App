@@ -25,5 +25,5 @@ A beautiful, responsive to-do list application with task management features.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/ub-victor/To-do-App.git
 cd todo-list
