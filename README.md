@@ -21,6 +21,10 @@ A beautiful, responsive to-do list application with task management features.
 - **Icons**: Font Awesome
 - **Design**: CSS Flexbox/Grid, custom animations
 
+##  Netlify link
+
+- **Link to chech out the App on live**: 
+
 ## 🚀 Installation & Usage
 
 1. Clone the repository:
